@@ -1,2 +1,2 @@
-# cooking-journal
+# Tony's Cooking Journal
 delete later?
