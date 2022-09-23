@@ -1,2 +1,2 @@
 # Tony's Cooking Journal
-delete later?
+A journal for creating delicious concoctions.
